@@ -18,6 +18,6 @@ The initial focus of the project will be to understand and train a Transformer N
 3. Classification
 4. Train model to respond appropriately
 
-# Works Cited 
+## Works Cited 
 
 Papastratis, Ilias. “Speech Recognition: A Review of the Different Deep Learning Approaches.” AI Summer, Sergios Karagiannakos, 14 July 2021, https://theaisummer.com/speech-recognition/#transformers. 
